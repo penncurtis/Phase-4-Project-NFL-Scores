@@ -15,3 +15,23 @@
 6. Enter the command `python app.py` in the terminal to run the Flask app (make sure that you are in the `server` directory before running this terminal command).
 
 7. In a new terminal, run `npm start --prefix client` in your terminal to run the React app in the browser. If your browser does not automatically open the page for you, open [http://localhost:4000](http://localhost:4000) to view it in your browser.
+
+
+
+
+points in vacuum:
+off:
+if 1 / 5 x 1.25
+if 6/10 x 1.15
+if 11/15 x 1.05
+if 16/20 x 0.95
+if 21/25 x 0.85
+if 26/32 x 0.7
+
+def:
+if 1 / 5 x 0.7
+if 6/10 x 0.85
+if 11/15 x 0.95
+if 16/20 x 1.05
+if 21/25 x 1.15
+if 26/32 x 1.25
